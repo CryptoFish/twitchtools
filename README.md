@@ -32,6 +32,7 @@ Feel free to create a PR and add entries to this list.
 * [Streamlabs](https://streamlabs.com/) A full featured service for keeping track of almost anything you would need to.
 * [NightDev-Followers](https://nightdev.com/followalert/) One of Nightdevs many services built for simple to configure notification pop-ups.
 * [Streamjar.tv](https://streamjar.tv/) A full Service with giveaways, analytics, donations and many more `OPEN BETA` 
+* [treatstream](https://treatstream.com/) Donation and Notification service
 
 ## Chatbots
 
