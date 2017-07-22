@@ -14,6 +14,7 @@ Feel free to create a PR and add entries to this list.
 - [Chatbots](#chatbots)
 - [Desktop Programs](#desktop-programs)
 - [Audio](#audio)
+- [Song Grabbing](#song-grabbing)
 - [Misc/Other](#miscother)
 
 --------------------
@@ -50,6 +51,9 @@ Feel free to create a PR and add entries to this list.
 
 * [VB-Cable](http://www.vb-audio.com/Cable/index.htm) Useful for segregating audio streams. Example: you can listen to music or talk in a mic without it being in your stream if you so choose.
 * [Voicemeter](http://www.vb-audio.com/Voicemeeter/index.htm) Virtual mixing console. Allows you to mix your voice and ingamesounds.
+
+## Song grabbing
+- [Snip](https://github.com/dlrudie/Snip/releases) Allows you to grab songinformation from Spotify, Itunes, VLC, and many more
 
 ## Misc/Other
 - [ReStream](https://restream.io/) Website that allows you to stream to multiple platforms simultanuosly.
