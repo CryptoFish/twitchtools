@@ -1,6 +1,8 @@
 # twitchtools
 A list of useful Tools for twitch
 
+Feel free to create a PR and add entries to this list.
+
 --------------------
 
 - [Donation Services](#donation-services)
