@@ -3,6 +3,8 @@ A list of useful Tools for twitch
 
 Feel free to create a PR and add entries to this list.
 
+[Contributors](CONTRIBUTORS.md)
+
 --------------------
 
 - [Donation Services](#donation-services)
