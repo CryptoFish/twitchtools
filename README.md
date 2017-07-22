@@ -9,7 +9,7 @@ A list of useful Tools for twitch
 - [Chatbots](#chatbots)
 - [Desktop Programs](#desktop-programs)
 - [Audio](#audio)
-- [Misc/Other](#misc-other)
+- [Misc/Other](#miscother)
 
 --------------------
 <!-- Begin of List -->
