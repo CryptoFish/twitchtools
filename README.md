@@ -56,4 +56,4 @@ Feel free to create a PR and add entries to this list.
 - [Snip](https://github.com/dlrudie/Snip/releases) Allows you to grab songinformation from Spotify, Itunes, VLC, and many more
 
 ## Misc/Other
-- [ReStream](https://restream.io/) Website that allows you to stream to multiple platforms simultanuosly.
+- [ReStream](https://restream.io/) Website that allows you to stream to multiple platforms simultanuosly. (But be careful if you're an affiliate)
