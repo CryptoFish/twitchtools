@@ -3,6 +3,7 @@
 A list of useful Tools for twitch
 
 Feel free to create a PR and add entries to this list.
+To do so, you can either fork this repository or edit [README.md](README.md) directly in your browser.
 
 [Contributors](CONTRIBUTORS.md)
 
