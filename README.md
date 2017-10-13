@@ -60,4 +60,4 @@ Please mark paid Services with `PAID`.
 
 ## Misc/Other
 - [ReStream](https://restream.io/) Website that allows you to stream to multiple platforms simultanuosly. (But be careful if you're an affiliate see [This Reddit Post](https://www.reddit.com/r/Twitch/comments/6ov7h7/list_with_tools_for_streamers/dkkhw8w/))
-- [Strawpoll](http://www.strawpoll.me/) Website for polls
+- [Strawpoll](http://www.strawpoll.me/) Website for polls.
