@@ -50,8 +50,8 @@ To do so, you can either fork this repository or edit [README.md](README.md) dir
 
 ## Audio
 
-* [VB-Cable](http://www.vb-audio.com/Cable/index.htm) Useful for segregating audio streams. Example: you can listen to music or talk in a mic without it being in your stream if you so choose.
-* [Voicemeter](http://www.vb-audio.com/Voicemeeter/index.htm) Virtual mixing console. Allows you to mix your voice and ingamesounds.
+* [VB-Cable](https://www.vb-audio.com/Cable/index.htm) Useful for segregating audio streams. Example: you can listen to music or talk in a mic without it being in your stream if you so choose.
+* [Voicemeter](https://www.vb-audio.com/Voicemeeter/index.htm ) Virtual mixing console. Allows you to mix your voice and ingamesounds.
 
 ## Song grabbing
 - [Snip](https://github.com/dlrudie/Snip/releases) Allows you to grab songinformation from Spotify, Itunes, VLC, and many more
