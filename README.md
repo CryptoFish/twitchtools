@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/higgs01/twitchtools.png?label=ready&title=Ready)](https://waffle.io/higgs01/twitchtools?utm_source=badge)
 # twitchtools
 A list of useful Tools for twitch
 
