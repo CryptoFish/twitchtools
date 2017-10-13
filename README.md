@@ -41,9 +41,9 @@ Please mark paid Services with `PAID`.
 
 ## Chatbots
 
-* [AnkhBot](https://www.ankhbot.com/) Ankhbot is a desktop bot
+* [AnkhBot](https://www.ankhbot.com/) Ankhbot is a desktop bot.
 * [NightBot](https://beta.nightbot.tv/) One of the most common bots. A great moderation bot with a web dashboard for convenience. 
-* [Moobot](http://twitch.moobot.tv/) Similar to Nightbot
+* [Moobot](http://twitch.moobot.tv/) Similar to Nightbot.
 
 ## Desktop Programs
 
